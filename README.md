@@ -24,12 +24,6 @@ To get started, you’ll need to install the required dependencies. You can do t
 ```bash
 pip install -r requirements.txt
 
-
-
-
-
-
-
 ///Steps ///
 Setup Instructions
 Clone the repository:
