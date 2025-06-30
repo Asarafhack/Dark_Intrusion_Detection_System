@@ -3,7 +3,7 @@
 Welcome to the **ASARAF AI DDoS Terminal**! This project provides a terminal-based application for simulating, detecting, visualizing DDoS attacks, and generating reports. It features a hacker-themed UI with advanced functionalities, powered by your expertise!
 
 
-## Ethical purpose only ,its under education dont misuse then i dont have 
+## Ethical purpose only ,its under education dont misuse its followed by education guideness
 ## Features
 
 - **Simulate DDoS Attack**: Simulate a DDoS attack to test your systems' robustness.
